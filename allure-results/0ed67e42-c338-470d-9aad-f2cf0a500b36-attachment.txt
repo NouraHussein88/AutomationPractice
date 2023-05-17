@@ -1,0 +1,13 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                    Test Method: 'org.example.Test.testcase1'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Target URL: "https://www.google.com/" @15-05-2023 19:36:39.0785 PM
+[ReportManager] Navigate to url "https://www.google.com/". @15-05-2023 19:36:41.0462 PM
+[ReportManager] Get current window title "Google". @15-05-2023 19:36:41.0516 PM
+[ReportManager] Expected "Google", and actual "Google" @15-05-2023 19:36:41.0517 PM
+[ReportManager] Verification "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'Google' for the 'title' attribute" and Actual "Google". Comparison Type "EQUALS". Validation Type "POSITIVE". @15-05-2023 19:36:42.0756 PM
+[ReportManager] Verification Passed: The Browser title is equal to "Google". @15-05-2023 19:36:42.0757 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1684172201682_testcase1_ValidateBrowserAttribute_passed' @15-05-2023 19:36:42.0770 PM
